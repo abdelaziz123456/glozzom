@@ -1,0 +1,64 @@
+.active{
+    border-left:2px solid #444 
+}
+
+
+.carousel-item{
+    height:450px;
+}
+
+.carousel-image-1{
+    background: url(../images/image1.jpg);
+    background-size:cover;
+}
+
+.carousel-image-2{
+    background: url(../images/image2.jpg);
+    background-size:cover;
+}
+
+.carousel-image-3{
+    background: url(../images/image3.jpg);
+    background-size:cover;
+}
+
+
+
+#jumb1{
+    background-image: url(../images/lights.jpg);
+    background-attachment: fixed;
+    
+}
+
+#overlay{
+    background-color:rgba(0,0,0,.6);
+
+
+}
+
+#jumb2{
+    background-image: url(../images/media.jpg);
+    background-attachment: fixed;
+    
+}
+
+#jumb3{
+    background-image: url(../images/image1.jpg);
+    background-attachment: fixed;
+}
+
+#copyright{
+    background-color: black;
+}
+
+#floated-image{
+    position: relative;
+    bottom:60px
+}
+
+p.lead{
+    margin-bottom:0;
+}
+
+
+
